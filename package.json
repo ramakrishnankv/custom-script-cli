@@ -1,0 +1,26 @@
+{
+  "name": "custom-script-cli",
+  "version": "1.0.0",
+  "description": "Creating custom Command Line Interface using NodeJS. Example of creating a CLI and reading arguments received from command line.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "react-app": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramakrishnankv/custom-script-cli.git"
+  },
+  "keywords": [
+    "create",
+    "custom",
+    "script",
+    "cli",
+    "command line interface",
+    "for NodeJS"
+  ],
+  "author": "Ramki",
+  "license": "ISC"
+}
